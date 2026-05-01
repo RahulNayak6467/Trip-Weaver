@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 40" fill="none">
+  
+  <path d="M8 28 C12 12, 18 8, 24 20 C30 32, 36 28, 40 16" stroke="#0f2027" stroke-width="2.5" stroke-linecap="round" fill="none"></path>
+  <path d="M14 32 C18 18, 24 14, 30 24 C36 34, 40 22, 44 14" stroke="#e8a04f" stroke-width="1.5" stroke-linecap="round" fill="none" opacity="0.7"></path>
+  
+  <text x="54" y="27" font-family="&#39;Playfair Display&#39;, Georgia, serif" font-size="20" font-weight="500" letter-spacing="-0.5" fill="#0f2027">TripWeaver</text>
+</svg>
