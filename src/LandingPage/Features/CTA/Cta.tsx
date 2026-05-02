@@ -26,7 +26,7 @@ function CTA() {
           </button>
         </div>
       </div>
-      <div className="flex gap-3 mt-6 text-cream/40">
+      <div className="flex gap-3 text-sm mt-2 text-cream">
         <p>Free to try</p>
         <p>No credit card</p>
         <p>cancel anytime</p>
